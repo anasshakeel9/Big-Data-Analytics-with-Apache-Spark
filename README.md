@@ -1,2 +1,1 @@
-# Big Data Analytics with Apache Spark
- 
+#Big Data Analytics using Apache Spark: A project that explores the power of Apache Spark in analyzing large datasets, specifically the Diabetes dataset. This project applies various machine learning models, including Logistic Regression, Decision Trees, Random Forest, Naive Bayes, and Gradient Boosting, to predict diabetes outcomes. By leveraging Spark's scalability and efficiency, this project demonstrates the potential of big data analytics in healthcare, enabling data-driven insights and informed decision-making.
