@@ -1,0 +1,5 @@
+Correlation_Analysis:https://colab.research.google.com/drive/1K5NFIXEwY6CQ9uf8fIAbCTGUAtZJUet-?usp=sharing
+
+EDAonDiabetes:https://colab.research.google.com/drive/1avhcgZcS97E5AfnHV1s6lOwtXYCpRofD?usp=sharing
+
+ML:https://colab.research.google.com/drive/1YJ_IvbhP3b4Y17PhlFUmGO_pD__GICy2?usp=sharing
